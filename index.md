@@ -10,7 +10,7 @@ layout: home
 
 The Modern School served Harlem children for over six decades. This site documents the history and impact of the school via oral history, photographs, and documents from the school and its students.
 
-{% include inline_image.html collection='photo' pid='cb007' y='50%' %}
+{% include parallax_image.html collection='photo' pid='cb007' y='50%' %}
 
 In the complex historical landscape of education for Black children in Harlem, the school on Sugar Hill stood out. Mildred Johnson, a Black woman educator in the 1930s when most public and private New York School leaders were white, founded The Modern School as an independent institution. Johnson declared the school’s progressive educational commitments when only a very few took this approach.
 

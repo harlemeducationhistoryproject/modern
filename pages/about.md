@@ -21,11 +21,11 @@ The project received support from Tina Campt through [Barnard College's Harlem S
 
 ### Terms of Use
 
-This is an open-access, non-commercial, educational resource. We ask that all users approach the materials and any plans for their re-use in that spirit. 
+This is an open-access, non-commercial, educational resource. We ask that all users approach the materials and any plans for their re-use in that spirit.
 
-The Wadleigh History Project includes reproductions of materials created by other parties, and the copyright and ownership of those materials stays with the writers, photographers, and others who created them. Some of the materials are in the public domain, and others are protected by copyright. Where we use materials that are under copyright, we do so either under the terms of fair use or with the express permission of the copyright holder.
+The Wadleigh History Project includes reproductions of materials created by other parties, and the copyright and ownership of those materials stays with the writers, photographers, and others who created them. 
 
-Where we reproduce materials created by other parties, we have made our best effort to secure all necessary rights. If you believe that we have made a mistake, please contact Ansley Erickson, erickson@tc.columbia.edu so that we can correct the oversight.
+Where we reproduce materials created by other parties, we have made our best effort to secure all necessary rights. If you believe that we have made a mistake, please contact Ansley Erickson, erickson@tc.columbia.edu so that we can correct the error.
 
 If you would like to reproduce materials created by other parties and included on this website, it is your obligation to determine and satisfy copyright or other use restrictions. You are solely responsible for determining whether the use of any digital object requires the permission of any other person or entity, and you are responsible for paying any associated fees.
 

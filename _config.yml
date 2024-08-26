@@ -113,16 +113,6 @@ search:
 menu:
   - label: "Collections"
     link: "/collection/"
-  - label: "Essays"
-    sub:
-      - label: "Flowers Essay"
-        link: "/exhibits/flowers/"
-      - label: "Luna Essay"
-        link: "/exhibits/luna/"
-      - label: "Taylor Essay"
-        link: "/exhibits/taylor/"
-      - label: "Erickson Essay"
-        link: "/exhibits/erickson/"
   - label: "Search"
     link: "/search/"
   - label: "About"

@@ -9,4 +9,4 @@ Flowers, Deidre B. “A School for Modern Times: Mildred Louise Johnson and the 
 
 Perry, Imani. [_May Forever We Stand: A History of the Black National Anthem_ (Chapel Hill: University of North Carolina Press, 2018)](https://uncpress.org/book/9781469666099/may-we-forever-stand/)
 
-Daniel Perlstein, ["Schooling the New Negro: Progressive Education, Black Modernity, and the Long Harlem Renaissance,"](https://ansleyerickson.github.io/book/chapters/01/) in Ansley Erickson and Ernest Morrell, eds. _Educating Harlem: A Century of Schooling and Resistance in a Black Community_ (New York: Columbia University Press, 2019) and [in a free digital edition](ansleyerickson.github.io/book)
+Perlstein, Daniel ["Schooling the New Negro: Progressive Education, Black Modernity, and the Long Harlem Renaissance,"](https://ansleyerickson.github.io/book/chapters/01/) in Ansley Erickson and Ernest Morrell, eds. _Educating Harlem: A Century of Schooling and Resistance in a Black Community_ (New York: Columbia University Press, 2019) and [in a free digital edition](ansleyerickson.github.io/book)

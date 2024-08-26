@@ -8,7 +8,7 @@
 layout: home
 ---
 
-The Modern School served Harlem children for over six decades. This site documents the history and impact of the school via oral history, photographs, and documents from the school and its students.
+The Modern School served Harlem children for over six decades. This site documents the history and impact of the school via oral history, photographs, and documents from the school and its students. This is work in progress as of August 2024.
 
 {% include parallax_image.html collection='photo' pid='cb007' y='50%' %}
 

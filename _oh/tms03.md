@@ -16,7 +16,7 @@ location: 'Teachers College, Columbia University '
 _tags: 'Exposure, Multicultural learning, Family, Costumes, Festivals, Plays, School
   as community, Harlem, School building, Reading, Curriculum , , , , , '
 order: '10'
-layout: oh_item
+layout: tmsoh_item
 collection: oh
 thumbnail: img/derivatives/simple/tms03/thumbnail.jpg
 full: img/derivatives/simple/tms03/fullwidth.jpg
